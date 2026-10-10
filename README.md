@@ -64,7 +64,7 @@ The global Customer Relationship Management (CRM) software market size is estima
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[Twenty](https://github.com/twentyhq/twenty)** [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
   **Modern open-source CRM built with TypeScript and React**, AGPL-3.0 licensed. Designed as a flexible, modern, self-hostable alternative to Salesforce with clean UI and GraphQL API. ⚡
@@ -116,7 +116,7 @@ Contributions are welcome! Follow these steps to submit new starter CRM platform
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
